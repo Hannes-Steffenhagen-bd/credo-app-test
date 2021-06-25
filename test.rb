@@ -6,3 +6,4 @@ other = 'world'
 
 puts name
 # another comment
+# another comment
